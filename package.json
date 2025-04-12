@@ -2,7 +2,7 @@
   "name": "codepuran-shunya",
   "displayName": "Codepuran Shunya",
   "description": "Codepuran Shunya - Visual Studio Code Color Theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Akshay Pethani"
   },
@@ -14,7 +14,7 @@
     "url": "https://github.com/codepuran/codepuran-shunya"
   },
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"

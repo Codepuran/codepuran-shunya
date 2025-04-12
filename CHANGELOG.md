@@ -5,6 +5,21 @@ All notable changes to the "Codepuran Shunya" theme will be documented in this f
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.0] - 2024-06-20
+
+### Added
+
+- Compatibility with Visual Studio Code version 1.80.0 and above
+- Improved theme stability across different VSCode environments
+
+### Changed
+
+- Updated version numbering to match package.json
+
+### Fixed
+
+- Minor color inconsistencies in certain UI elements
+
 ## [0.1.0] - 2025-04-12
 
 ### Added
@@ -25,4 +40,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial version, no fixes to note
 
+[0.2.0]: https://github.com/codepuran/codepuran-shunya/releases/tag/v0.2.0
 [0.1.0]: https://github.com/username/codepuran-shunya/releases/tag/v0.1.0
