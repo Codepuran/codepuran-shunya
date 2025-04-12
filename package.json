@@ -1,0 +1,42 @@
+{
+  "name": "codepuran-shunya",
+  "displayName": "Codepuran Shunya",
+  "description": "Codepuran Shunya - Visual Studio Code Color Theme",
+  "version": "0.1.0",
+  "author": {
+    "name": "Akshay Pethani"
+  },
+  "publisher": "codepuran",
+  "license": "MIT",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codepuran/codepuran-shunya"
+  },
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "syntax highlighting",
+    "Vscode",
+    "Theme",
+    "Onedark",
+    "Monokai"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codepuran Shunya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codepuran-shunya-color-theme.json"
+      }
+    ]
+  }
+}
